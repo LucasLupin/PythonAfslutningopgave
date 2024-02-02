@@ -1,5 +1,5 @@
-"IoT Embedded",
-"Python",
-"BigData 1",
-"Softwaresikkerhed og test",
+"IoT Embedded"
+"Python"
+"BigData 1"
+"Softwaresikkerhed og test"
 "Serversideprogrammering"

@@ -1,2 +1,6 @@
-Niels Olesen "Python"
-
+Niels Olesen Python, IoT Embedded, Softwaresikkerhed og test, BigData 1, Serversideprogrammering
+Palle Westermann Serversideprogrammering, IoT Embedded, Python
+Lucas Ziegler BigData 1, Softwaresikkerhed og test
+Usama Seje BigData 1
+Lucas Lupin Serversideprogrammering
+Filip Lupin Softwaresikkerhed og test, IoT Embedded, BigData 1
